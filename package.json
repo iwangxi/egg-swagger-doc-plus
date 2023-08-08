@@ -1,6 +1,6 @@
 {
   "name": "egg-swagger-doc-zyws",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "swagger for egg",
   "eggPlugin": {
     "name": "swaggerDocZyws"
@@ -53,6 +53,6 @@
     "url": "https://github.com/iwangxi/egg-swagger-doc-plus/issues"
   },
   "homepage": "https://github.com/iwangxi/egg-swagger-doc-plus#readme",
-  "author": "vanhee base yanshijie",
+  "author": "xmy base yanshijie",
   "license": "MIT"
 }
